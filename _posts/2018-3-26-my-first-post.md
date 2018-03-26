@@ -6,4 +6,3 @@ public class Test {
     System.out.println("hell world!");
   }
 }
-```
